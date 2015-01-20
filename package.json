@@ -1,0 +1,16 @@
+{
+	"name": "gcm_ccs_connection",
+	"version": "1.0.0",
+	"description": "Google GCM CCS Connection",
+	"dependencies": {
+                "async": "latest",
+		"node-uuid": "latest",
+		"debug": "0.8.0",
+		"gearmanode": "latest",
+		"redis": "latest",
+		"node-xmpp": "latest",
+                "node-xmpp-client": "latest",
+                "winston": "latest"
+		},
+	"author": "seshachalam"
+}
